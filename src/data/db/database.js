@@ -2,23 +2,23 @@ import Mock from "../mock";
 
 const database = {
   information: {
-    name: 'Devid Chester',
-    aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
-    age: 24,
+    name: 'Brett Madrid',
+    aboutContent: "I am a full stack web developer.",
+    age: 59,
     phone: '',
     nationality: 'American',
-    language: 'English, French',
-    email: '',
-    address: '121 King Street, Melbourne, Australia',
+    language: 'English',
+    email: 'brettmadrid@icloud.com',
+    address: 'Oregon, USA',
     freelanceStatus: 'Available',
     socialLinks: {
-      facebook: 'https://facebook.com',
-      twitter: 'https://twitter.com',
+      facebook: 'https://facebook.com/brett.madrid.9',
+      twitter: 'https://twitter.com/M9Brett',
       pinterest: '',
       behance: '',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/brettmadrid/',
       dribbble: '',
-      github: 'https://github.com'
+      github: 'https://github.com/brettmadrid'
     },
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
@@ -27,7 +27,7 @@ const database = {
   },
   services: [
     {
-      title: "Web Design",
+      title: "Node Backend Development",
       icon: 'brush-alt',
       details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
     },
