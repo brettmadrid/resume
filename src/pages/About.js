@@ -58,7 +58,7 @@ function About() {
   return (
     <Layout>
       <Helmet>
-        <title>About - Chester React Personal Portfolio Template</title>
+        <title>About - Brett Madrid</title>
         <meta
           name="description"
           content="Chester React Personal Portfolio Template About Page"
@@ -108,11 +108,11 @@ function About() {
                         <b>Full Name</b> {information.name}
                       </li>
                     )}
-                    {!information.age ? null : (
+                    {/* {!information.age ? null : (
                       <li>
                         <b>Age</b> {information.age} Years
                       </li>
-                    )}
+                    )} */}
                     {!information.phone ? null : (
                       <li>
                         <b>Phone</b> {information.phone}

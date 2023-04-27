@@ -27,7 +27,7 @@ const database = {
   },
   services: [
     {
-      title: "Node Backend Development",
+      title: "Backend Development",
       icon: 'brush-alt',
       details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
     },
@@ -45,18 +45,18 @@ const database = {
   reviews: [
     {
       id: 1,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam, aliquid maxime tempora.",
+      content: "I really like the website Brett made me.  His support is also top notch.  I liked how he listened to my input on the design and created a website for my business that I am proud of.",
       author: {
-        name: 'Burdette Turner',
-        designation: 'Web Developer, Abc Company'
+        name: 'Dan Knudsen',
+        designation: 'Musician, FMS Studios'
       }
     },
     {
       id: 2,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
+      content: "I use Brett for all of my IT services.  He is knowledgable, a good communicator, and delivers on time.  He also responds quickly when I need it!",
       author: {
-        name: 'Susan Yost',
-        designation: 'Client'
+        name: 'Karl McHazlett',
+        designation: 'General Manager, BTS (UASKWEBUILD.COM)'
       }
     },
     {
@@ -79,18 +79,18 @@ const database = {
     },
     {
       title: "Javascript",
-      value: 70
+      value: 75
     },
     {
-      title: "jQuery",
-      value: 85
+      title: "Node",
+      value: 70
     },
     {
       title: "ReactJS",
       value: 80
     },
     {
-      title: "Photoshop",
+      title: "Wordpress",
       value: 65
     }
   ],
@@ -463,9 +463,9 @@ const database = {
     }
   ],
   contactInfo: {
-    phoneNumbers: ['+012-3456-7891', '+012-3456-7892'],
-    emailAddress: ['admin.sitename@example.com', 'info.sitename@example.com'],
-    address: "121 King Street, Melbourne, Victoria 3000, Australia"
+    phoneNumbers: ['(415) 966-5574'],
+    emailAddress: ['brettmadrid@icloud.com'],
+    address: "5040 SW Griffith Dr. #100, Beaverton, OR 97005"
   }
 }
 
