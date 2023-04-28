@@ -2,10 +2,20 @@
 
 ### How to choose javascript framework for project.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit magni at, tempore cumque? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum consequatur earum debitis mollitia repellat porro dolorum magni neque, consectetur et nam fugiat ipsa, quibusdam accusamus aperiam asperiores quia inventore numquam. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis reprehenderit cum quos quia necessitatibus ipsa mollitia error nemo dicta, possimus nobis tempora quod voluptate nostrum ducimus nulla aperiam, explicabo pariatur.
+Choosing a JavaScript framework for a project can be a challenging task. There are several factors you need to consider before making your decision. Here are some of the most important factors you should keep in mind when choosing a JavaScript framework:
 
->Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit consequatur earum debitis mollitia repellat.
+Project requirements: Consider what features and functionalities your project requires. Look for a framework that has the necessary tools and components to meet your needs.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit magni at, tempore cumque? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum consequatur earum debitis mollitia repellat.
+Developer skills: Consider the skills of your development team. Choose a framework that your team is familiar with, or one that they can easily learn.
 
-Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit consequatur earum debitis mollitia repellat.
+Community and support: Look for a framework with an active and supportive community. This will ensure that you can find help when you need it, and that the framework is being actively maintained and updated.
+
+Performance: Consider the performance requirements of your project. Choose a framework that can handle the expected load and provide fast response times.
+
+Documentation: Look for a framework with good documentation. This will make it easier for your team to learn and use the framework.
+
+Security: Consider the security requirements of your project. Choose a framework that has a good security track record and has been audited for security vulnerabilities.
+
+Licensing: Consider the licensing requirements of your project. Choose a framework that has a license that is compatible with your project's needs.
+
+Some popular JavaScript frameworks include React, Angular, Vue.js, and Ember. Each of these frameworks has its own strengths and weaknesses, so it's important to evaluate each framework against your project's specific needs before making a decision.

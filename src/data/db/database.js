@@ -23,7 +23,7 @@ const database = {
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
     aboutImageLg: '/images/about-image-lg.jpg',
-    cvfile: '/files/empty.pdf'
+    cvfile: '/files/Resume.pdf'
   },
   services: [
     {
@@ -376,9 +376,9 @@ const database = {
       title: 'How to choose javascript framework for project.',
       featuredImage: '/images/blog-image-6.jpg',
       filesource: '../../blog/how-to-choose-javascript-framework-for-project.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "26",
+      createMonth: 'April',
+      createYear: "2023"
     },
     {
       id: 7,
