@@ -98,9 +98,7 @@ function About() {
                     I am <span className="color-theme">{information.name}</span>
                   </h3>
                   <p>
-                    I am a frontend web developer. I can provide clean code and
-                    pixel perfect design. I also make website more & more
-                    interactive with web animations.
+                    I am a full stack web developer.  My primary tools are React and Node. I also am proficient with SQL and Wordpress.  
                   </p>
                   <ul>
                     {!information.name ? null : (
@@ -145,7 +143,7 @@ function About() {
                     )}
                   </ul>
                   <a href={information.cvfile} className="mi-button">
-                    Download CV
+                    Download Resume
                   </a>
                 </div>
               </div>
